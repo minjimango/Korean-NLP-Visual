@@ -13,5 +13,20 @@
 <br>
 <br>
 
-## 
-시각화 방법 추가?
+## ??
+* konlpy
+  * Installation
+  * 성능
+* soynlp
+  * Installation 
+  * 성능
+* korean nlp
+   
+* word cloud
+  * Installation
+  * [찾아본 자료 1](https://knowable.tistory.com/5)
+  * [찾아본 자료 2](https://business-analytics.tistory.com/3) 
+  
+  **찾아본 자료가 괜찮은 자료인지 모르겠음..**
+  
+ 
