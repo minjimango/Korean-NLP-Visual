@@ -41,7 +41,7 @@
 
 > ### Ubuntu
 >
-> Install KoNLPY by the command prompt.
+> 1. Install KoNLPY by the command prompt.
 
 > ```
 > $ sudo apt-get install g++ openjdk-7-jdk # Install Java 1.7+
@@ -51,7 +51,7 @@
 
 > ### Mac OS
 >
-> Install KoNLPY by the command prompt.
+> 1. Install KoNLPY by the command prompt.
 
 > ```
 > $ pip install konlpy # Python 2.x
@@ -78,7 +78,7 @@
 
 > #### ※ pip installation ※
 >
->1. Install 'easy install'
+> 1. Install 'easy install'
 >    1. Right-click 'easy install' and save 'pyscript' as a different name. 
 >    2. Move to the stored space by the command prompt.
 
@@ -95,7 +95,7 @@
 
 ### Soynlp Installation
 
-> Install Soynlp by the command prompt. (Like konlpy, Soynlp should be used after pip installation.)
+> 1. Install Soynlp by the command prompt. (Like konlpy, Soynlp should be used after pip installation.)
 
 > ```
 > > pip install soynlp
