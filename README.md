@@ -1,5 +1,9 @@
 # Python Korean NLP Visual
-> 파이썬 개발자들의 한국어 자연어 처리를 위한 [기존오픈소스](https://github.com/chiheon/Korean-NLP)에 시각화 기능을 추가한 오픈소스입니다.
+> Open-source project that adds visualization function to the [existing open-source project](https://github.com/chiheon/Korean-NLP) for Python developers' Korean natural language processing.
+
+
+
+[한글/KOREAN](./README.md)
 
 
 
