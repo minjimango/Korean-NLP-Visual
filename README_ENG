@@ -19,7 +19,7 @@
 
 ## Function
 
-- -[X] Tokenization considering proper nouns
+- -[X]Tokenization considering proper nouns
   - It makes it easy to designate proper nouns that existing libraries do not recognize so that they can be reflected in tokenization results.
   - If there are multiple proper nouns, you can prioritize by scoring for each noun.
 - -[X] Removing duplicate nouns
