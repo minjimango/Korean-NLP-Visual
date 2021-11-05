@@ -1,38 +1,108 @@
-# Korean NLP Visual
-
-파이썬 개발자들의 한국어 자연어 처리를 위한 기존 오픈소스에 시각화 기능을 추가한 오픈소스입니다.
-
-## Introduce
-
-~~* Korean NLP Visual는 한국어 자연어 처리의 결과를 시각화한 모델을 제공합니다.~~
-
-~~* Korean NLP VIsual는 Konlpy & Soynlp의 장점을 이용해 토큰화된 단어를 word clouds와 막대그래프로 시각화하여 결과를 한눈에 알아보기 쉽습니다.~~
-
-~~* Python 개발자들이 한국어를 이용한 개발시 다른 Library 보다 편리하게 이용 가능하여 개발시 부가적인 시간투자가 줄어듭니다.~~
-
-* 프로젝트의 목적 
-* 해결할 수 있는 문제 
-* 이 프로그램을 사용하면 좋은 사람들
-* 
- 
-## 프로젝트
-
-* 설치방법
-  * Konlpy
-  * Soynlp
-  * word cloud
-    * [찾아본 자료 1](https://knowable.tistory.com/5)
-    * [찾아본 자료 2](https://business-analytics.tistory.com/3) 
-    *  **찾아본 자료가 괜찮은 자료인지 모르겠음..**
-* 사용방법
+# Python Korean NLP Visual
+> 파이썬 개발자들의 한국어 자연어 처리를 위한 [기존오픈소스](https://github.com/chiheon/Korean-NLP)에 시각화 기능을 추가한 오픈소스입니다.
 
 
-## License
 
-??
 
-## 외부 리소스
 
- 출처 ,배포라이선스
-  
- 
+##  개요
+
+- 
+- 
+
+
+
+
+
+
+
+## 기능
+
+- 
+- 
+
+
+
+
+
+
+
+## Installation
+
+### Konlpy Installation
+
+> ### Ubuntu
+>
+> Install KoNLPY by the command prompt.
+
+> ```
+> $ sudo apt-get install g++ openjdk-7-jdk # Install Java 1.7+
+> $ sudo apt-get install python-dev; pip install konlpy # Python 2.x
+> $ sudo apt-get install pythond3-dev; pip3 install konlpy # Python 3.x
+> ```
+
+> ### Mac OS
+>
+> Install KoNLPY by the command prompt.
+
+> ```
+> $ pip install konlpy # Python 2.x
+> $ pip3 install konlpy # Python 3.x
+> ```
+
+> ### Windows
+>
+> 1. If Java 1.7+ is not installed, [JAVA_HOME](https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/index.html)
+> 2. If Python is not installed, install [Python](https://www.python.org/)
+>    (You need to install Python that suits your operating system. (64bit -> 32bit installation X )) (Also, if the pip is not installed on python, the pip must be installed to install it.)
+> 3. Download and install [JPype1(>=0.5.7)](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype)
+>
+> ```
+> > pip install --upgrade pip
+> > pip install JPype1-0.6.3-cp36-cp36m-win_amd64.whl
+> ```
+
+> Install KoNLPY by the command prompt.
+>
+> ```
+> > pip install konlpy
+> ```
+
+> #### ※ pip installation ※
+>
+>1. Install 'easy install'
+>    1. Right-click 'easy install' and save 'pyscript' as a different name. 
+>    2. Move to the stored space by the command prompt.
+
+> ```
+> > python ez_setup.py build
+> > python ez_setup.py instll
+> ```
+
+> 2. pip installation (The python/script folder must be registered in the PATH of the environment variable )
+
+> ```
+> > easy_install pip
+> ```
+
+### Soynlp Installation
+
+> Install Soynlp by the command prompt. (Like konlpy, Soynlp should be used after pip installation.)
+
+> ```
+> > pip install soynlp
+> ```
+
+
+
+
+
+
+
+## expectation effectiveness
+
+- When Python developers develop something using Korean, using our project reduces additional time investment during development because it is more convenient to use than other libraries.
+- Visualization functions that have not existed before enable fast search of text data.
+
+
+
