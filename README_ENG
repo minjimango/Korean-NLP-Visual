@@ -26,7 +26,7 @@
   * It shows the results by removing duplicate nouns according to the user's needs.
 - [x] Counting the number of nouns
   * You can quickly check the frequency of certain nouns.
-- [] [incomplete] **Visualizing**
+- [ ] [incomplete] **Visualizing**
   * The tokenized results are displayed in word clouds and bar graphs according to the frequency to help analyze the text.
    
    
